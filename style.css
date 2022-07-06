@@ -41,12 +41,9 @@ body {
     color: rgba(128, 128, 128, 0.350);
 }
 
-
-
 .donate {
     display: flex;
     justify-content: center;
-
 }
 
 .amount {
@@ -56,8 +53,6 @@ body {
     width: 100px;
     border-radius: 5px;
     text-align: center;
-
-
 }
 
 #default-amount {
@@ -81,19 +76,14 @@ body {
 
 }
 
-
 .donate-plan {
     padding-bottom: 30px;
     border-radius: 5px;
     text-align: center;
-    /* margin: 30px; */
 }
-
 
 .food-family {
     display: flex;
-    /* padding-bottom: 30px;
-    border-color: gray; */
 }
 
 .card1 {
@@ -110,12 +100,6 @@ body {
     background-color: rgba(137, 207, 23, 0.055);
     padding: 40px;
 }
-
-body {
-    font-family: 'Bitter', serif;
-    margin: 0;
-}
-
 
 .form {
     background-color: rgba(255, 166, 0, 0.205);
@@ -137,7 +121,6 @@ body {
     padding: 10px 20px;
     margin-left: -8px;
     margin-top: 5px;
-
 }
 
 #get-update-article {
@@ -157,5 +140,4 @@ body {
     padding-bottom: 30px;
     border-radius: 5px;
     text-align: center;
-
 }
